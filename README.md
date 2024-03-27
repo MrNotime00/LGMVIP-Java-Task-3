@@ -1,2 +1,2 @@
-# LGMVIP-Java-Task-3
+# Scientific Calculator
 Scientific Calculator using java
